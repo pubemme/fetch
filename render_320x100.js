@@ -1,5 +1,5 @@
 (function () {
-
+	if (startN) return;
     var SIZE = '320x100'; // 320x100 | 300x250
 
     // file JSON STATICO su jsDelivr
