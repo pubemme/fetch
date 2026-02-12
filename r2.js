@@ -16,7 +16,7 @@
 
             if (!post || !post.title) return;
 
-            var container = document.getElementById('native');
+            var container = document.getElementById('n');
             if (!container) return;
 
 			var finalUrl = urlTrack + post.url;
