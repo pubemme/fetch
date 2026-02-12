@@ -1,19 +1,27 @@
 (function () {
 
-    var SIZE = '320x100';
+    var SIZE = '320x100'; // 320x100 | 300x250
 
-    fetch('https://adtech.vivimedia.it/test/gen_html/get_data.php', { cache: 'no-store' })
+    // file JSON STATICO su jsDelivr
+    var DATA_URL = 'https://cdn.jsdelivr.net/gh/pubemme/fetch@284f98aeed9db87220c5f0c2c69f80a126d37fe0/data';
+
+    fetch(DATA_URL, { cache: 'no-store' })
         .then(r => r.json())
-        .then(post => {
+        .then(list => {
+
+            if (!Array.isArray(list) || !list.length) return;
+
+            // post random
+            var post = list[Math.floor(Math.random() * list.length)];
 
             if (!post || !post.title) return;
 
             var container = document.getElementById('native');
             if (!container) return;
-			
-			var url = urlTrack+post.url;
 
-            container.innerHTML = render(post, SIZE,url);
+			var finalUrl = urlTrack + post.url;
+
+            container.innerHTML = render(post, SIZE, finalUrl);
         });
 
     function render(p, size, url) {
@@ -37,72 +45,93 @@
             white-space:nowrap;
             border-radius:3px;
         `;
-		
-        var cta_c = `width: 100%;`;
 
-		if (size === '320x100') {
-			return `
-			<div style="
-				display:flex;
-				align-items:flex-start;
-				gap:8px;
-				width:100%;
-				height:100px;
-				max-height:100px;
-				font-family:Arial;
-				box-sizing:border-box;
-				overflow:hidden;
-				padding:6px;
-			">
-				<img onclick="window.open('${url}','_blank')" src="${p.image}" style="
-					cursor: pointer;
-					width:64px;
-					height:64px;
-					object-fit:cover;
-					flex-shrink:0;
-					display:block;
-				">
-				<div style="
-					display:flex;
-					flex-direction:column;
-					gap:4px;
-					flex:1;
-					min-width:0;
-					overflow:hidden;
-				">
-					<div onclick="window.open('${url}','_blank')" style="
-						font-size:12px;
-						font-weight:bold;
-						line-height:1.15;
-						overflow:hidden;
-						display:-webkit-box;
-						-webkit-line-clamp:2;
-						-webkit-box-orient:vertical;
-						cursor: pointer; 
-					">
-						${p.title}
-					</div>
-					<a href="${url}" target="_blank" style="
-						background:#e11111;
-						color:#fff;
-						padding:3px 6px;
-						text-decoration:none;
-						font-size:11px;
-						border-radius:3px;
-						align-self:flex-start;
-						white-space:nowrap;
-					">
-						Vai alla ricetta
-					</a>
-				</div>
-			</div>`;
-		}
+        /* ======================
+           320x100
+        ====================== */
+        if (size === '320x100') {
+            return `
+            <div style="
+                display:flex;
+                align-items:flex-start;
+                gap:8px;
+                width:100%;
+                height:100px;
+                max-height:100px;
+                font-family:Arial;
+                box-sizing:border-box;
+                overflow:hidden;
+                padding:6px;
+            ">
+                <img src="${p.image}" onclick="window.open('${url}','_blank')" style="
+                    cursor:pointer;
+                    width:64px;
+                    height:64px;
+                    object-fit:cover;
+                    flex-shrink:0;
+                    display:block;
+                ">
+                <div style="
+                    display:flex;
+                    flex-direction:column;
+                    gap:4px;
+                    flex:1;
+                    min-width:0;
+                    overflow:hidden;
+                ">
+                    <div onclick="window.open('${url}','_blank')" style="
+                        font-size:12px;
+                        font-weight:bold;
+                        line-height:1.15;
+                        overflow:hidden;
+                        display:-webkit-box;
+                        -webkit-line-clamp:2;
+                        -webkit-box-orient:vertical;
+                        cursor:pointer;
+                    ">
+                        ${p.title}
+                    </div>
+                    <a href="${url}" target="_blank" style="
+                        background:#e11111;
+                        color:#fff;
+                        padding:3px 6px;
+                        text-decoration:none;
+                        font-size:11px;
+                        border-radius:3px;
+                        align-self:flex-start;
+                        white-space:nowrap;
+                    ">
+                        Vai alla ricetta
+                    </a>
+                </div>
+            </div>`;
+        }
 
+        /* ======================
+           300x250
+        ====================== */
         return `
-        <div style="display:flex;flex-direction:column;gap:8px;width:100%;height:100%;font-family:Arial">
-            <img onclick="window.open('${url}','_blank')" src="${p.image}" style="cursor: pointer; width:100%;max-height:140px;object-fit:cover">
-            <div onclick="window.open('${url}','_blank')" style="${titleStyle} cursor: pointer;">${p.title}</div>
-            <a href="${url}" target="_blank" style="${cta}">Vai alla ricetta</a>
+        <div style="
+            display:flex;
+            flex-direction:column;
+            gap:8px;
+            width:100%;
+            height:100%;
+            font-family:Arial;
+            box-sizing:border-box;
+        ">
+            <img src="${p.image}" onclick="window.open('${url}','_blank')" style="
+                cursor:pointer;
+                width:100%;
+                max-height:140px;
+                object-fit:cover;
+            ">
+            <div onclick="window.open('${url}','_blank')" style="${titleStyle} cursor:pointer;">
+                ${p.title}
+            </div>
+            <a href="${url}" target="_blank" style="${cta}">
+                Vai alla ricetta
+            </a>
         </div>`;
     }
 
