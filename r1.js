@@ -20,14 +20,14 @@
             if (!container) return;
 
 			var finalUrl = urlTrack + post.url;
-
-            container.innerHTML = render(post, SIZE, finalUrl);
 			
 			var ctaText = "Vai alla ricetta";
 			if (post.category == "Blog") ctaText = "Scopri di più";
+
+            container.innerHTML = render(post, SIZE, finalUrl, ctaText);
         });
 
-    function render(p, size, url) {
+    function render(p, size, url, ctaText) {
 
         var titleStyle = `
             font-size:14px;
