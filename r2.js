@@ -3,7 +3,7 @@
     var SIZE = '320x100';
 
     // file JSON STATICO su jsDelivr
-    var DATA_URL = 'https://cdn.jsdelivr.net/gh/pubemme/fetch@284f98aeed9db87220c5f0c2c69f80a126d37fe0/data';
+    var DATA_URL = 'https://cdn.jsdelivr.net/gh/pubemme/fetch@88e183a54e34a471ee7b5ed7c0e9421cbb5d6ece/data';
 
     fetch(DATA_URL, { cache: 'no-store' })
         .then(r => r.json())
