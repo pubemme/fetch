@@ -1,6 +1,6 @@
 (function () {
 	if (startN) return;
-    var SIZE = '320x100'; // 320x100 | 300x250
+    var SIZE = '320x100';
 
     // file JSON STATICO su jsDelivr
     var DATA_URL = 'https://cdn.jsdelivr.net/gh/pubemme/fetch@284f98aeed9db87220c5f0c2c69f80a126d37fe0/data';
@@ -22,6 +22,9 @@
 			var finalUrl = urlTrack + post.url;
 
             container.innerHTML = render(post, SIZE, finalUrl);
+			
+			var ctaText = "Vai alla ricetta";
+			if (post.category == "Blog") ctaText = "Scopri di più";
         });
 
     function render(p, size, url) {
@@ -130,7 +133,7 @@
                 ${p.title}
             </div>
             <a href="${url}" target="_blank" style="${cta}">
-                Vai alla ricetta
+                ${ctaText}
             </a>
         </div>`;
     }
