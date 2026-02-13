@@ -104,7 +104,7 @@
                         align-self:flex-start;
                         white-space:nowrap;
                     ">
-                        Vai alla ricetta
+                        ${ctaText}
                     </a>
                 </div>
             </div>`;
