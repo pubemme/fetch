@@ -1,9 +1,37 @@
 [
     {
-        "id": 12420,
-        "title": "Come pulire la friggitrice ad aria: guida completa passo passo",
-        "image": "https://unarosaincucina.it/wp-content/uploads/2025/11/come-pulire-la-friggitrice-ad-aria-guida-completa-passo-passo__.jpg",
-        "url": "https://unarosaincucina.it/blog/come-pulire-la-friggitrice-ad-aria-guida-completa-passo-passo/",
-        "category": "Blog"
+        "id": 4703,
+        "title": "Maxi zeppola di San Giuseppe",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2020/03/maxi-zeppola-di-san-giuseppe0027.jpg",
+        "url": "https://unarosaincucina.it/dolci/maxi-zeppola-di-san-giuseppe/",
+        "category": "Bimby"
+    },
+    {
+        "id": 4584,
+        "title": "Zeppole Pan di Stelle",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2020/03/zeppole-pan-di-stelle29.jpg",
+        "url": "https://unarosaincucina.it/dolci/zeppole-pan-di-stelle/",
+        "category": "Bimby"
+    },
+    {
+        "id": 2206,
+        "title": "Zeppole di San Giuseppe a modo mio (Bimby)",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2019/07/zeppole-di-san-giuseppe-a-modo-mio05.jpg",
+        "url": "https://unarosaincucina.it/dolci/zeppole-di-san-giuseppe-a-modo-mio-bimby/",
+        "category": "Bimby"
+    },
+    {
+        "id": 1203,
+        "title": "Bignè alla crema o zeppole di San Giuseppe",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2019/06/bigne-alla-crema-o-zeppole06.jpg",
+        "url": "https://unarosaincucina.it/dolci/bigne-alla-crema-o-zeppole/",
+        "category": "Dolci"
+    },
+    {
+        "id": 520,
+        "title": "Zeppole di San Giuseppe",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2016/03/zeppole_san_giuseppe0002.jpg",
+        "url": "https://unarosaincucina.it/dolci/zeppole-di-san-giuseppe/",
+        "category": "Dolci"
     }
 ]
