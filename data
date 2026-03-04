@@ -33,5 +33,12 @@
         "image": "https://unarosaincucina.it/wp-content/uploads/2016/03/zeppole_san_giuseppe0002.jpg",
         "url": "https://unarosaincucina.it/dolci/zeppole-di-san-giuseppe/",
         "category": "Dolci"
+    },
+    {
+        "id": 4266,
+        "title": "Torta mimosa",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2020/02/torta-mimosa22.jpg",
+        "url": "https://unarosaincucina.it/dolci/torta-mimosa/",
+        "category": "Dolci"
     }
 ]
