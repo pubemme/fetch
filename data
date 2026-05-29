@@ -1,359 +1,665 @@
 [
     {
+        "id": 12894,
+        "title": "Spaghetti cacio e pepe con gamberi e lime",
+        "excerpt": "La cacio e pepe è un piatto essenziale che diventa cremoso grazie all’acqua di cottura e a una mantecatura attenta. In questa versione, i gamberi aggiungono una nota marina elegante e il limone porta freschezza, per un primo raffinato ma semplice da preparare",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2026/05/spaghetti-cacio-e-pepe-con-gamberi-e-lime.jpg",
+        "url": "https://unarosaincucina.it/primi/spaghetti-cacio-e-pepe-con-gamberi-e-lime/",
+        "category": "Primi",
+        "author": "Claudia",
+        "porzioni": "4",
+        "tempo_preparazione": "20 Minuti",
+        "tempo_cottura": "4 Minuti",
+        "difficolta": "media"
+    },
+    {
+        "id": 12890,
+        "title": "Spaghetti alla carrettiera",
+        "excerpt": "Gli spaghetti alla carrettiera sono un primo piatto semplice, veloce e ricco di sapore. Aglio, peperoncino, prezzemolo, olio extravergine d’oliva e Pecorino creano una pasta cremosa, profumata e perfetta quando avete poco tempo ma volete portare in tavola qualcosa di speciale.",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2026/05/spaghetti_alla_carrettiera.jpg",
+        "url": "https://unarosaincucina.it/primi/spaghetti-alla-carrettiera/",
+        "category": "Primi",
+        "author": "Claudia",
+        "porzioni": "4 persone",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "12 minuti",
+        "difficolta": "Facile"
+    },
+    {
+        "id": 12886,
+        "title": "Ravioli con burro e salvia",
+        "excerpt": "I ravioli burro e salvia sono uno di quei primi che mettono tutti d’accordo. Pochi ingredienti, profumo immediato e un risultato sempre gratificante. In questa versione trovate sia il metodo classico, sia una variante con salvia tritata che rende il gusto più intenso. Se vi piace, completate con formaggio grattuggiato e una spolverata di pepe nero.",
+        "image": "https://unarosaincucina.it/wp-content/uploads/2026/05/ravioli_burro_e_salvia.jpg",
+        "url": "https://unarosaincucina.it/primi/ravioli-con-burro-e-salvia/",
+        "category": "Primi",
+        "author": "Claudia",
+        "porzioni": "4",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "variabile",
+        "difficolta": "Facile"
+    },
+    {
         "id": 12793,
         "title": "Gnocchi di patate viola con burro e pepe nero",
+        "excerpt": "Gli gnocchi di patate viola sono un primo piatto elegante e sorprendente, perfetto per stupire a tavola con un tocco di colore e gusto delicato.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2026/04/gnocchi_viola.jpg",
         "url": "https://unarosaincucina.it/primi/gnocchi-di-patate-viola-con-burro-e-pepe-nero/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "30 minuti",
+        "tempo_cottura": "3 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 12754,
         "title": "Fettuccine ai funghi champignon",
+        "excerpt": "Le fettuccine ai funghi champignon sono un primo cremoso e profumato, perfetto per un pranzo veloce ma raffinato. Un piatto semplice che conquista al primo assaggio.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2026/04/fettuccine_con_funghi_champignon0.jpg",
         "url": "https://unarosaincucina.it/primi/fettuccine-ai-funghi-champignon/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "20 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 12752,
         "title": "Cannelloni ricotta e spinaci",
+        "excerpt": "I cannelloni ricotta e spinaci sono un grande classico della cucina italiana: cremosi, delicati e perfetti per ogni occasione. Facili da preparare, conquisteranno tutti a tavola.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2026/04/cannelloni_ricotta_e_spinaci.jpg",
         "url": "https://unarosaincucina.it/primi/cannelloni-ricotta-e-spinaci/",
-        "category": "Pasta ripiena"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "6",
+        "tempo_preparazione": "30 minuti",
+        "tempo_cottura": "35 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 12768,
         "title": "Spaghettoni alle vongole",
+        "excerpt": "Voglia di mare in tavola? Gli spaghettoni alle vongole sono un grande classico della nostra cucina: semplici, rapidi e profumatissimi. Scoprite come preparare questo primo piatto saporito che unisce la dolcezza delle vongole alla freschezza del pomodorino. Perfetto per ogni occasione!",
         "image": "https://unarosaincucina.it/wp-content/uploads/2026/04/spaghettoni_alle_vongole-1.jpg",
         "url": "https://unarosaincucina.it/primi/spaghettoni-alle-vongole/",
-        "category": "Pasta con pesce"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "30 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 12681,
         "title": "Timballo di anelletti alla siciliana con melanzane",
+        "excerpt": "Un timballo di anelletti alla siciliana ricco e profumato, con ragù saporito, piselli e una copertura di melanzane fritte che in forno diventa dorata e croccante. Perfetto per i pranzi in famiglia e ideale anche da gustare tiepido, quando profumi e consistenze si esaltano ancora di più.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2026/04/timballo-di-anelletti-alla-siciliana-con-melanzane.jpg",
         "url": "https://unarosaincucina.it/salati/timballo-di-anelletti-alla-siciliana-con-melanzane/",
-        "category": "Festività"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "12",
+        "tempo_preparazione": "1 ora",
+        "tempo_cottura": "3 ore",
+        "difficolta": "media"
     },
     {
         "id": 12663,
         "title": "Spaghetti con alici fresche e pangrattato",
+        "excerpt": "Portare in tavola questi spaghetti significa puntare su sapori netti e mediterranei. Un primo veloce, perfetto quando volete qualcosa di semplice ma d’effetto",
         "image": "https://unarosaincucina.it/wp-content/uploads/2026/03/spaghetti_alici_e_pangrattato.jpg",
         "url": "https://unarosaincucina.it/primi/spaghetti-con-alici-fresche-e-pangrattato/",
-        "category": "Pasta con pesce"
+        "category": "Primi",
+        "author": "Claudia",
+        "porzioni": "4 persone",
+        "tempo_preparazione": "30 minuti",
+        "tempo_cottura": "15 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 12579,
         "title": "Spaghetti alla siciliana: pasta con acciughe, capperi e pomodori secchi",
+        "excerpt": "Un primo velocissimo, che porta a tavola i profumi del Sud...",
         "image": "https://unarosaincucina.it/wp-content/uploads/2026/02/spaghetti_alla_siciliana01.jpg",
         "url": "https://unarosaincucina.it/primi/spaghetti-alla-siciliana-pasta-con-acciughe-capperi-e-pomodori-secchi/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Claudia",
+        "porzioni": "5",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "10/12 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 12403,
         "title": "Spaghetti con crema di zucca, zucchine e speck",
+        "excerpt": "Gli spaghetti con crema di zucca, zucchine e speck sono un primo piatto semplice ma ricco, ideale quando si cerca qualcosa di diverso dal solito senza complicarsi troppo in cucina",
         "image": "https://unarosaincucina.it/wp-content/uploads/2025/11/spaghetti_zucca_zucchine_e_speck_.jpg",
         "url": "https://unarosaincucina.it/primi/spaghetti-con-crema-di-zucca-zucchine-e-speck/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Claudia",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "20–25 min",
+        "difficolta": "Facile"
     },
     {
         "id": 12246,
         "title": "Paccheri con crema di zucca, tonno e pomodorini",
+        "excerpt": "I paccheri con crema di zucca, tonno e pomodorini sono un primo piatto saporito e armonioso. La dolcezza vellutata della zucca si combina con la nota intensa del tonno, mentre i pomodorini aggiungono freschezza e un tocco di colore che rende il piatto ancora più invitante",
         "image": "https://unarosaincucina.it/wp-content/uploads/2025/07/paccheri_crema_di_zucca_tonno_e_pomodorini.jpg",
         "url": "https://unarosaincucina.it/primi/paccheri-con-crema-di-zucca-tonno-e-pomodorini/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "20 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 12140,
         "title": "Lasagne al pesto",
+        "excerpt": "Le lasagne al pesto sono un primo piatto dal sapore delicato e avvolgente, perfetto per chi ama i profumi e i colori della tradizione ligure. A differenza delle classiche lasagne al ragù, questa versione si caratterizza per la presenza del pesto alla genovese, che con il suo gusto intenso di basilico, pinoli e Parmigiano regala al piatto una cremosità irresistibile.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2025/02/lasagne-al-pesto99.jpg",
         "url": "https://unarosaincucina.it/primi/lasagne-al-pesto/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Claudia",
+        "porzioni": "varie",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "30 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 12019,
         "title": "Spaghetti con crema di Parmigiano, pistacchio e salmone",
+        "excerpt": "Gli spaghetti con crema di Parmigiano, pistacchio e salmone sono l’esempio perfetto di come pochi ingredienti ben scelti possano trasformarsi in una ricetta straordinaria. La morbidezza della crema di Parmigiano avvolge la pasta, mentre il salmone dona una nota raffinata e il pistacchio regala un tocco di croccantezza irresistibile. Un primo piatto che unisce semplicità e raffinatezza, perfetto per una cena speciale o per coccolarti con qualcosa di unico.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/12/spaghetti_con_crema_di_formaggio_granella_di_pistacchio_e_salmone_-1.jpg",
         "url": "https://unarosaincucina.it/primi/spaghetti-con-crema-di-parmigiano-pistacchio-e-salmone/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Claudia",
+        "porzioni": "4",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "15 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11748,
         "title": "Pennette all’astice con piselli",
+        "excerpt": "Si tratta di un piatto prelibato e raffinato che mette in risalto il sapore delicato e la consistenza tenera di questo crostaceo di mare. La cottura dell'astice è delicatissima e richiede attenzione per evitare di compromettere la sua consistenza e gusto.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/03/pennette-all-astice-con-piselli.jpg",
         "url": "https://unarosaincucina.it/primi/pennette-allastice-con-piselli/",
-        "category": "Pasta con pesce"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "30 minuti",
+        "tempo_cottura": "10 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11741,
         "title": "Spaghetti cremosi con zucchine e gamberi",
+        "excerpt": "La pasta cremosa zucchine e gamberi rappresenta una fusione squisita di sapori marini e terrestri. Abbracciata da una crema avvolgente, la pasta diventa il veicolo ideale per questi ingredienti, portando in tavola un piatto che è al contempo nutriente e festoso.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/03/spaghetti_cremosi_con_zucchine_e_gamberi.jpg",
         "url": "https://unarosaincucina.it/primi/spaghetti-cremosi-con-zucchine-e-gamberi/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "20 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11634,
         "title": "Caserecce al forno svuotafrigo",
+        "excerpt": "È una deliziosa pasta al forno dalla consistenza ricca, saporita e rappresenta il classico comfort food per eccellenza. Le caserecce al forno svuotafrigo io le ho preparate utilizzando gli ingredienti disponibili nel mio frigorifero, in particolare quelli che potrebbero scadere presto o che mi sono rimasti inutilizzati per un po' di tempo.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/03/caserecce-al-forno-svuotafrigo99_high.jpg",
         "url": "https://unarosaincucina.it/primi/caserecce-al-forno-svuotafrigo/",
-        "category": "Pasta ripiena"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "6",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "40 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11378,
         "title": "Spaghetti con sugo di gamberi rossi siciliani",
+        "excerpt": "L’ingrediente d’eccellenza di questo gustoso piatto è il gambero rosso, uno dei crostacei più pregiati del pescato nelle acque dei nostri mari meridionali. La preparazione è antica e richiede un po’ di pazienza nei passaggi, ma non rimarrete delusi dal risultato finale, dal sapore della cultura gastronomica marinara di Sicilia.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/02/spaghetti-con-sugo-di-gamberi-rossi-siciliani-1.jpg",
         "url": "https://unarosaincucina.it/primi/spaghetti-con-sugo-di-gamberi-rossi-siciliani/",
-        "category": "Pasta con pesce"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "5 minuti",
+        "tempo_cottura": "25 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11335,
         "title": "Pomodori ripieni di riso con scamorza",
+        "excerpt": "La ricetta dei pomodori ripieni è piuttosto antica e varia a seconda delle tradizioni regionali e personali delle nostre famiglie. E' un piatto classico della cucina meridionale, dove soprattutto in estate vengono spesso utilizzati i pomodori fra i più rossi e succosi della stagione.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/02/pomodori_ripieni_di_riso_con_scamorza-1.jpg",
         "url": "https://unarosaincucina.it/primi/pomodori-ripieni-di-riso-con-scamorza/",
-        "category": "Con formaggio"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "11",
+        "tempo_preparazione": "30 minuti",
+        "tempo_cottura": "40 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11320,
         "title": "Risotto con zucchine e gamberetti scottati",
+        "excerpt": "Il risotto è un piatto che si presta a mille variati di sapori. Preparato con varie combinazioni di ingredienti, noi vi proponiamo la combo verdure più crostacei. La tecnica di cottura è quella dei classici risotti che coinvolge il lento aggiungere di brodo al riso, con costante mescolamento, fino a quando il riso assorbe il liquido e raggiunge una consistenza cremosa.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/02/risotto-con-zucchine-e-gamberi-scottati0.jpg",
         "url": "https://unarosaincucina.it/primi/risotto-con-zucchine-e-gamberi-scottati/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "25 minuti",
+        "tempo_cottura": "30 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11312,
         "title": "Tortiglioni al ragù con cuori di cotto e ciliegino",
+        "excerpt": "I colori accesi dei pomodori ciliegino maturi, le sfumature avvolgenti del ragù e la delicatezza dei cuoricini di prosciutto cotto, diventano protagonisti indiscussi della tavola, con i nostri tortiglioni, piatto principale di una serata a due, che diventa irresistibile alla vista.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/01/tortiglioni-al-ragu-con-cuori-di-cotto-e-ciliegino.jpg",
         "url": "https://unarosaincucina.it/primi/tortiglioni-al-ragu-con-cuori-di-cotto-e-ciliegino/",
-        "category": "Festività"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "2",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "60 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11226,
         "title": "Cuori di pasta fresca con ricotta, spinaci e ‘nduja",
+        "excerpt": "Preparare a casa i ravioli a cuore con ricotta e spinaci può essere una deliziosa avventura culinaria per il giorno di San Valentino, oppure per ogni volta che vi sentite romantici e rilassati. Questa è una ricetta semplice, di base, da preparare in casa con pochi passaggi facili, ai quali dovrete aggiungere un po’ di manualità per la realizzazione dei cuori.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/01/cuori-di-pasta-fresca-con-ricotta-spinaci-e-nduja0002.jpg",
         "url": "https://unarosaincucina.it/primi/cuori-di-pasta-fresca-con-ricotta-spinaci-e-nduja/",
-        "category": "Festività"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "2",
+        "tempo_preparazione": "30 minuti",
+        "tempo_cottura": "10 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11215,
         "title": "Paccheri al pomodoro con pesce spada e melanzane fritte",
+        "excerpt": "Eccellente primo piatto, buonissimo e super apprezzato, da realizzare alla domenica ma, nonostante la ricetta sia semplicissima, per la perfetta riuscita è necessario che il pesce sia particolarmente fresco. Al posto del basilico, come aroma, possiamo procurarci anche della menta fresca che cresce rigogliosa anche in pieno inverno.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/01/paccheri-al-pomodoro-con-pesce-spada-e-melanzane-fritte01.jpg",
         "url": "https://unarosaincucina.it/primi/paccheri-al-pomodoro-con-pesce-spada-e-melanzane-fritte/",
-        "category": "Pasta con pesce"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "40 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11209,
         "title": "Bucatini con patate, broccoli e peperoncino piccante",
+        "excerpt": "I broccoli cucinati assieme alle patate è una deliziosa combinazione che può essere utilizzata in diverse preparazioni. Il piatto è perfetto per la stagione fredda e, per renderlo ancora più gustoso e diverso dal solito, aggiungiamo della salsiccia fresca sbriciolata.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/01/bucatini-con-patate-e-broccoli-piccanti001.jpg",
         "url": "https://unarosaincucina.it/primi/bucatini-con-patate-broccoli-e-peperoncino-piccante/",
-        "category": "Pasta verde"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "30 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11204,
         "title": "Orecchiette con salsiccia e datterini",
+        "excerpt": "Questo piatto della tradizione culinaria italiana incarna il gusto autentico e ricco della cucina del Sud. Le orecchiette sono protagoniste in questa preparazione, avendo la capacità di catturare e trattenere al meglio i sapori del condimento. La salsiccia, con il suo sapore robusto e speziato, si sposa armoniosamente con i pomodorini datterini, piccoli e dolci, che apportano una nota fresca e succulenta al piatto. L'insieme di questi ingredienti crea un'esperienza gastronomica deliziosa e appagante, perfetta per chi desidera gustare un'autentica prelibatezza italiana a tavola.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/01/orecchiette_salsiccia_e_datterini001.jpg",
         "url": "https://unarosaincucina.it/primi/orecchiette-con-salsiccia-e-datterini/",
-        "category": "Pasta con carne"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "25 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11195,
         "title": "Conchigliette con olive, pomodori secchi e zucchine grigliate",
+        "excerpt": "Utilissima preparazione super veloce per quando abbiamo voglia di mangiare qualcosa di buono, ma abbiamo poco tempo per cucinare. È una pasta veloce, capace di solleticare il palato di tutti in famiglia e, perché no, può essere l’ideale da preparare all’ultimo minuto, per una cena tra amici.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2024/01/conchigliette-olive-pomodori-secchi-e-zucchine-grigliate.jpg",
         "url": "https://unarosaincucina.it/primi/conchigliette-con-olive-pomodori-secchi-e-zucchine-grigliate/",
-        "category": "Pasta verde"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "4",
+        "tempo_preparazione": "5 minuti",
+        "tempo_cottura": "15 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 11119,
         "title": "Lasagne rosse alla besciamella",
+        "excerpt": "Le lasagne sono famose in tutto il mondo e fanno parte dei piatti tradizionali italiani. Si realizzano solitamente per occasioni speciali e riunioni familiari della domenica. Inoltre, sono ideali per essere cucinate in grandi quantità e possono essere anche preparate in anticipo.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2023/12/lasagne.jpg",
         "url": "https://unarosaincucina.it/primi/lasagne-rosse-alla-besciamella/",
-        "category": "Pasta con carne"
+        "category": "Primi",
+        "author": "Anna Ossequio",
+        "porzioni": "8",
+        "tempo_preparazione": "1,5 ore",
+        "tempo_cottura": "2 ore",
+        "difficolta": "media"
     },
     {
         "id": 10834,
         "title": "Spaghetti all'ubriaca",
+        "excerpt": "Questi spaghetti sono una sinfonia di sapori, grazie al tocco speciale del vino rosso. Condivido con voi tutti i segreti di questa delizia, affinché possiate stupire i vostri ospiti, come nel mio caso...",
         "image": "https://unarosaincucina.it/wp-content/uploads/2023/11/spaghetti_all_ubriaca005.jpg",
         "url": "https://unarosaincucina.it/salati/spaghetti-allubriaca/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Fiorella",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "20 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 10829,
         "title": "Risotto radicchio e speck",
+        "excerpt": "L'aroma distintivo del radicchio si intreccia armoniosamente con la saporita ricchezza dello speck, regalando al palato un viaggio sensoriale unico. Scopriamo insieme come creare questa prelibatezza che porta l'autunno direttamente sulle vostre tavole, regalandovi un'esperienza culinaria indimenticabile.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2023/11/risotto_radicchio_e_speck.jpg",
         "url": "https://unarosaincucina.it/salati/risotto-radicchio-e-speck/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "30 minuti",
+        "tempo_cottura": "30 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 10526,
         "title": "Spaghetti con le cozze",
+        "excerpt": "Gli spaghetti con le cozze sono un piatto di mare tipico della cucina italiana dal gusto autentico e dai sapori intensi. Questa ricetta vi porterà in un viaggio sensoriale tra profumi marini e prelibatezze mediterranee, offrendovi l'opportunità di preparare un primo piatto raffinato, ma incredibilmente semplice e veloce da realizzare",
         "image": "https://unarosaincucina.it/wp-content/uploads/2023/07/spaghetti_con_cozze_cremosi_e_ricchi_di_sapore013.jpeg",
         "url": "https://unarosaincucina.it/primi/spaghetti-con-le-cozze/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "25 minuti",
+        "difficolta": "media"
     },
     {
         "id": 10411,
         "title": "Spaghetti con i lupini di mare",
+        "excerpt": "Avete mai assaggiato gli spaghetti con i lupini di mare? Questi molluschi dal sapore deciso sono perfetti per una bella spaghettata al profumo di mare!",
         "image": "https://unarosaincucina.it/wp-content/uploads/2023/06/nggallery_import/spaghetti_con_lupini_di_mare013.jpg",
         "url": "https://unarosaincucina.it/primi/spaghetti-con-i-lupini-di-mare/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "5 minuti (+ riposo)",
+        "tempo_cottura": "30 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 8754,
         "title": "Paccheri con pomodorini e calamari",
+        "excerpt": "I paccheri con pomodorini e calamari sono un primo piatto diverso dal solito, con un sugo ricco e saporito. Un piatto unico adatto a tutti, gustoso e salutare.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2022/12/paccheri_al_sugo_di_calamari.jpeg",
         "url": "https://unarosaincucina.it/primi/paccheri-con-pomodorini-e-calamari/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "30 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 8745,
         "title": "Zuppa di cozze e fagioli",
+        "excerpt": "La zuppa di fagioli e cozze è tipica della cucina povera, e racchiude i profumi e i sapori della terra e del mare. Ne esistono diverse varianti tutte ugualmente gustose e saporite, questa è la ricetta della mia famiglia.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2022/12/nggallery_import/cozze_e_fagioli_con_crostini_di_pane4.jpg",
         "url": "https://unarosaincucina.it/salati/zuppa-di-cozze-e-fagioli/",
-        "category": "Antipasti e contorni"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "6",
+        "tempo_preparazione": "30 minuti (+ ammollo)",
+        "tempo_cottura": "60 minuti",
+        "difficolta": "media"
     },
     {
         "id": 6906,
         "title": "Crespelle ripiene di ricotta e spinaci",
+        "excerpt": "Le crespelle ricotta e spinaci sono un grande classico, semplici da preparare, di grande effetto in tavola e adatte a ogni occasione!",
         "image": "https://unarosaincucina.it/wp-content/uploads/2022/11/nggallery_import/cannelloni-ripieni-di-ricotta-e-spinaci014.jpeg",
         "url": "https://unarosaincucina.it/primi/crespelle-ripiene-di-ricotta-e-spinaci/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "varie",
+        "tempo_preparazione": "50 minuti",
+        "tempo_cottura": "10 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 8322,
         "title": "Risotto alle zucchine e fiori di zucca",
+        "excerpt": "Fiori di zucca e zucchine per un risotto estivo e leggero. Semplice da preparare e buonissimo da gustare, per grandi e piccini!",
         "image": "https://unarosaincucina.it/wp-content/uploads/2022/07/nggallery_import/risotto_con_zucchine_e_fiori_di_zucca008.jpg",
         "url": "https://unarosaincucina.it/primi/risotto-alle-zucchine-e-fiori-di-zucca/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "15 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 5919,
         "title": "Cous cous di verdure (Bimby)",
+        "excerpt": "Quando cominciano i primi caldi mi piace preparare dei piatti unici che possono essere consumati anche tiepidi o freschi, uno di questi è il cous cous con verdure miste. Con l'aiuto del Bimby sarà veramente Facile e veloce portare in tavola questa ricetta semplice ma gustosa",
         "image": "https://unarosaincucina.it/wp-content/uploads/2022/06/nggallery_import/cous-cous-bimby015.jpeg",
         "url": "https://unarosaincucina.it/salati/cous-cous-di-verdure-bimby/",
-        "category": "Bimby"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "40 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 7308,
         "title": "Pasta fatta in casa con mollica croccante e noci",
+        "excerpt": "L’ingrediente principale di questa ricetta è il latte, il quale dona agli spaghetti fatti in casa una particolare corposità rispetto all'acqua...",
         "image": "https://unarosaincucina.it/wp-content/uploads/2021/02/nggallery_import/pasta-fatta-in-casa-pesto-di-noci008.jpeg",
         "url": "https://unarosaincucina.it/primi/pasta-fatta-in-casa-con-pesto-di-noci/",
-        "category": "Pasta fresca fatta in casa"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "2 minuti",
+        "difficolta": "media"
     },
     {
         "id": 7049,
         "title": "Maccheroni calabresi al ferretto",
+        "excerpt": "La domenica, dalle mie parti, è abitudine preparare spesso dei gustosi piatti di pasta fresca fatta in casa. Oggi vi voglio proporre la ricetta dei maccheroni al ferretto!",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/08/nggallery_import/Maccheroni__calabresi_al_ferretto06.jpg",
         "url": "https://unarosaincucina.it/primi/maccheroni-calabresi-al-ferretto/",
-        "category": "Pasta fresca fatta in casa"
+        "category": "Primi",
+        "author": "Sara",
+        "porzioni": "2",
+        "tempo_preparazione": "60 minuti (+ asciugatura)",
+        "tempo_cottura": "senza cottura",
+        "difficolta": "media"
     },
     {
         "id": 5891,
         "title": "Spaghetti con crema di burrata, zucchine e melanzane",
+        "excerpt": "In questo primo piatto i sapori si sposano tra loro alla perfezione, il suo successo è assicurato! Una volta preparato lo riproporrete più volte... ;)",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/06/spaghetti-con-crema-di-burrata-zucchine-e-melanzane011.jpeg",
         "url": "https://unarosaincucina.it/primi/spaghetti-con-crema-di-burrata-zucchine-e-melanzane/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "10 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 5797,
         "title": "Crêpes ricotta e spinaci",
+        "excerpt": "Le crêpes con ricotta e spinaci sono un goloso primo piatto al forno, ricco e succulento ma allo stesso tempo Facile e veloce.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/05/crepes-ricotta-e-spinaci15.jpg",
         "url": "https://unarosaincucina.it/primi/crepes-ricotta-e-spinaci/",
-        "category": "Bimby"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "6",
+        "tempo_preparazione": "60 minuti",
+        "tempo_cottura": "10 minuti",
+        "difficolta": "media"
     },
     {
         "id": 5791,
         "title": "Gnocchi di patate",
+        "excerpt": "Gusto e tradizione si fondono in questa ricetta semplice, ma di effetto: gli gnocchi di patate. Noi ve li proponiamo con un condimento di pomodorini Pachino e Parmigiano, ma chi lo gradisce può utilizzzare il pecorino",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/05/gnocchi-patate14.jpg",
         "url": "https://unarosaincucina.it/primi/gnocchi-di-patate/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "40 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 5779,
         "title": "Risotto agli asparagi",
+        "excerpt": "Il risotto agli asparagi é una tipica ricetta primaverile, preparata con l'ortaggio primaverile per eccellenza. Delicato nel sapore e morbido nelle consistenza è un primo piatto semplice ma raffinato, amato da tutti nella mia famiglia.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/05/risotto-asparagi19.jpg",
         "url": "https://unarosaincucina.it/primi/risotto-agli-asparagi/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "40 minuti ",
+        "difficolta": "Facile"
     },
     {
         "id": 5573,
         "title": "Tortiglioni con pomodori secchi, scamorza e broccoli",
+        "excerpt": "Un primo piatto dal gusto deciso, dove i vari sapori si fondono armoniosamente. Vi consiglio di provarlo...",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/04/tortiglioni-con-pomodori-secchi-scamorza-e-broccoli10.jpg",
         "url": "https://unarosaincucina.it/primi/tortiglioni-con-pomodori-secchi-scamorza-e-broccoli/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "15 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 4451,
         "title": "Paccheri con tonno, melanzane e pomodorini Pachino",
+        "excerpt": "I paccheri con tonno, melanzane e pomodorini Pachino sono un primo piatto che racchiude i profumi e i sapori del Mediterraneo. La dolcezza dei pomodorini si combina alla perfezione con la sapidità del tonno e la consistenza vellutata delle melanzane, creando un condimento semplice ma ricco di gusto. Ideale per un pranzo in famiglia o una cena tra amici, questa ricetta si prepara in poco tempo e con ingredienti facilmente reperibili, ma il risultato è sorprendentemente raffinato.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/03/paccheri-tonno-melanzane-e-pomodorini-pachino04.jpg",
         "url": "https://unarosaincucina.it/primi/paccheri-con-tonno-melanzane-e-pomodorini-pachino/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "2",
+        "tempo_preparazione": "30 minuti",
+        "tempo_cottura": "10 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 4217,
         "title": "Risotto alla zucca",
+        "excerpt": "Di questa ricetta tradizionale ne esistono molte varianti, soprattutto per quanto riguarda la cottura della zucca stessa. La ricetta nasce povera perché viene realizzata con ingredienti semplici ed economici come riso, zucca e brodo vegetale e può essere arricchita con formaggi. Nella ricetta che vi proponiamo noi il risotto viene servito in una cialda croccante di parmigiano.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/02/risotto-alla-zucca16.jpg",
         "url": "https://unarosaincucina.it/primi/risotto-alla-zucca/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "6",
+        "tempo_preparazione": "10 minuti",
+        "tempo_cottura": "20 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 3991,
         "title": "Spaghetti con spinaci, robiola e noci",
+        "excerpt": "Questa ricetta è perfetta per chi, per varie esigenze, ha poco tempo da passare in cucina. Un primo piatto molto invitante, un'idea semplice e veloce da portare a tavola, ma ricca di gusto.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2020/02/spaghetti-con-spinaci-robiola-e-noci18.jpg",
         "url": "https://unarosaincucina.it/primi/spaghetti-con-spinaci-robiola-e-noci/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "2",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "15 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 3235,
         "title": "Pennette con speck, pomodorini e basilico",
+        "excerpt": "Le pennette con speck, pomodorini e basilico sono la soluzione perfetta per chi vuole portare in tavola un primo piatto gustoso e veloce. Il sapore deciso dello speck si abbina alla dolcezza dei pomodorini, mentre il basilico fresco regala una nota profumata che rende il tutto irresistibile. Con pochi e semplici ingredienti, questa ricetta è ideale per un pranzo dell’ultimo minuto o una cena informale con gli amici, senza rinunciare al piacere di un piatto dal sapore intenso e avvolgente.",
         "image": "https://unarosaincucina.it/wp-content/uploads/2019/12/pennette-speck-pomodorini-basilico04.jpg",
         "url": "https://unarosaincucina.it/primi/pennette-con-speck-pomodorini-e-basilico/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "12 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 3011,
         "title": "Risotto radicchio, pancetta e noci (Bimby)",
+        "excerpt": "Un risotto molto buono, ma al contempo cremoso, semplice e saporito. Sarà apprezzato da tutti i commensali seduti alla vostra tavola, il risultato è assicurato!",
         "image": "https://unarosaincucina.it/wp-content/uploads/2019/11/risotto-radicchio-pancetta-e-noci03.jpg",
         "url": "https://unarosaincucina.it/primi/risotto-radicchio-pancetta-e-noci-bimby/",
-        "category": "Bimby"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "2",
+        "tempo_preparazione": "20 minuti",
+        "tempo_cottura": "15 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 2341,
         "title": "Rigatoni con melanzane e parmigiano",
+        "excerpt": "Se amate la pasta con le melanzane che viene proposta in svariate versioni, sicuramente gradirete anche questo piatto. Con questa ricetta scoprirete un mondo di sapori delicati e interessanti, dove pasta e melanzane si combinano in modo diverso, grazie a spezie e formaggio",
         "image": "https://unarosaincucina.it/wp-content/uploads/2019/07/rigatoni-con-melanzane-e-parmigiano04.jpg",
         "url": "https://unarosaincucina.it/salati/verdure/rigatoni-con-melanzane-e-parmigiano/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "45 minuti",
+        "tempo_cottura": "20 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 1589,
         "title": "Pasta alla carbonara con asparagi",
+        "excerpt": "La pasta alla carbonara è un piatto caratteristico del Lazio e più in particolare di Roma. Preparato con ingredienti popolari e dal gusto intenso, i tipi di pasta tradizionalmente più usati sono gli spaghetti o i rigatoni",
         "image": "https://unarosaincucina.it/wp-content/uploads/2019/07/pasta-alla-carbonara-con-asparagi12.jpg",
         "url": "https://unarosaincucina.it/salati/pasta-alla-carbonara-con-asparagi/",
-        "category": "Pasqua"
-    },
-    {
-        "id": 1125,
-        "title": "Tortiglioni tonno e pomodoro in poche mosse",
-        "image": "https://unarosaincucina.it/wp-content/uploads/2019/06/tortiglioni-tonno-e-pomodoro-in-poche-mosse05.jpg",
-        "url": "https://unarosaincucina.it/salati/tortiglioni-tonno-e-pomodoro-in-poche-mosse/",
-        "category": "Primi"
-    },
-    {
-        "id": 1078,
-        "title": "Spaghetti al tonno e limone",
-        "image": "https://unarosaincucina.it/wp-content/uploads/2019/05/spaghetti-al-tonno-al-profumo-di-limone06.jpg",
-        "url": "https://unarosaincucina.it/primi/spaghetti-al-tonno-al-profumo-di-limone/",
-        "category": "Primi"
-    },
-    {
-        "id": 1041,
-        "title": "Gnocchi alla pizzaiola",
-        "image": "https://unarosaincucina.it/wp-content/uploads/2019/05/gnocchi-alla-pizzaiola06.jpg",
-        "url": "https://unarosaincucina.it/salati/gnocchi-alla-pizzaiola/",
-        "category": "Primi"
+        "category": "Primi",
+        "author": "Rosa",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "10 minuti",
+        "difficolta": "Facile"
     },
     {
         "id": 891,
         "title": "Risotto con asparagi e pancetta",
+        "excerpt": "La ricetta del risotto agli asparagi sa di primavera, é un primo piatto semplice ma gustoso, le cui fasi di preparazione sono poche e facili. Da provare!",
         "image": "https://unarosaincucina.it/wp-content/uploads/2019/03/risotto-con-asparagi-e-pancetta09.jpg",
         "url": "https://unarosaincucina.it/salati/risotto-con-asparagi-e-pancetta/",
-        "category": "Pasqua"
+        "category": "Primi",
+        "author": "Elisa",
+        "porzioni": "4",
+        "tempo_preparazione": "15 minuti",
+        "tempo_cottura": "30/35 minuti",
+        "difficolta": "Facile"
     }
 ]
